@@ -19,9 +19,6 @@ Seguem também algumas de minhas redes sociais para que seja possível entrar em
 <div> 
   <a href="https://www.linkedin.com/in/gabrielheyde/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/gabrielheyde/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   
-</div>
 
-<div style="display: inline_block">
-  <img align="right" alt="gif" height="200" width="200" src="https://media.licdn.com/dms/image/D4D08AQHYX8mHPuSXBg/croft-frontend-shrinkToFit1024/0/1639511743714?e=2147483647&v=beta&t=F_HrOBSCPkGDZAYepuafOGwiKe2nqUoS6ESFGdt5utM" />
-</div><br/>
+<div> 
+      <img align="middle" src="https://media.licdn.com/dms/image/D4D08AQHYX8mHPuSXBg/croft-frontend-shrinkToFit1024/0/1639511743714?e=2147483647&v=beta&t=F_HrOBSCPkGDZAYepuafOGwiKe2nqUoS6ESFGdt5utM" alt="Uma pessoa">
