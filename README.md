@@ -23,5 +23,5 @@ Seguem também algumas de minhas redes sociais para que seja possível entrar em
 </div>
 
 <div style="display: inline_block">
-  <img align="center" alt="gif" height="200" width="200" src="https://media.licdn.com/dms/image/D4D08AQHYX8mHPuSXBg/croft-frontend-shrinkToFit1024/0/1639511743714?e=2147483647&v=beta&t=F_HrOBSCPkGDZAYepuafOGwiKe2nqUoS6ESFGdt5utM" />
+  <img align="right" alt="gif" height="200" width="200" src="https://media.licdn.com/dms/image/D4D08AQHYX8mHPuSXBg/croft-frontend-shrinkToFit1024/0/1639511743714?e=2147483647&v=beta&t=F_HrOBSCPkGDZAYepuafOGwiKe2nqUoS6ESFGdt5utM" />
 </div><br/>
