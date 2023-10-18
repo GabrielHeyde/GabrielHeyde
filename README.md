@@ -14,7 +14,7 @@ Deixo abaixo listadas as linguagens da qual já possuo pelo menos uma base de co
 </div><br/>
 
 ### CONTATOS
-Seguem também algumas de minhas redes sociais para que seja possível entrar em contato:
+Seguem também algumas de minhas redes sociais e meu e-mail para que seja possível entrar em contato:
 
 <div> 
   <a href="https://www.linkedin.com/in/gabrielheyde/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
