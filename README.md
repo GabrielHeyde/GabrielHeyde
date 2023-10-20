@@ -7,7 +7,7 @@ Me chamo Gabriel Heyde, sou atual estudante do curso de Ciência da Computação
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHeyde&layout=compact&theme=gotham)
 
 ### LINGUAGENS DE PROGRAMAÇÃO E FERRAMENTAS
-Deixo abaixo listadas as linguagens da qual já possuo pelo menos uma base de conhecimento para programar ou executar tarefas:
+Deixo abaixo listadas as linguagens e ferramentas da qual já possuo pelo menos uma base de conhecimento para programar ou executar tarefas:
 <div style="display: inline_block">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
